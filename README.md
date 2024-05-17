@@ -1,4 +1,4 @@
 # cloudmanhq.github.io
 cloudmanhq.github.io
 
-(cloudman-mindmap)[cloudman-mindmap.md]
+cloudman(cloudman-mindmap)[cloudman-mindmap.md]
